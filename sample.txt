@@ -1,3 +1,7 @@
 My great github contribution!
 Well...maybe not so great.
+<<<<<<< HEAD
 Why doesn't this want to work?
+=======
+This file needs more work.
+>>>>>>> 063fcd931ece31681b0363da788a30202dbfbf33
